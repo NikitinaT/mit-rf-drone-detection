@@ -1,3 +1,20 @@
+Conversation opened. 1 unread message.
+
+Skip to content
+Using National Aerospace University Mail with screen readers
+
+3 of 2,470
+New code
+External
+Inbox
+
+Dmytro Yeskin
+Attachments
+10:35 PM (34 minutes ago)
+to me
+
+ 2 Attachments
+  •  Scanned by Gmail
 # TDoA Drone Localization
 
 A Python simulation of Time Difference of Arrival (TDoA) based drone localization using multiple RF receiver nodes.
@@ -18,6 +35,8 @@ This program simulates a drone detection system that uses TDoA (Time Difference 
   - numpy >= 1.21.0
   - scipy >= 1.7.0
   - matplotlib >= 3.4.0
+  - contextily
+  - pyproj
 
 ## Installation
 
@@ -32,3 +51,5 @@ Run the simulation with:
 ```bash
 python main.py # Can be also python3 in some systems etc
 ```
+README.md
+Displaying README.md.
