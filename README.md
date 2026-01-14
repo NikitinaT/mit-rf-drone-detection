@@ -25,7 +25,7 @@ This program simulates a drone detection system that uses TDoA (Time Difference 
 
 1. Install the required dependencies:
 ```bash
-pip install numpy scipy matplotlib # Can be also pip3 in some systems
+pip install numpy scipy matplotlib contextily pyproj # Can be also pip3 in some systems
 ```
 
 ## Running the Program
