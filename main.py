@@ -1,20 +1,3 @@
-Conversation opened. 1 unread message.
-
-Skip to content
-Using National Aerospace University Mail with screen readers
-
-3 of 2,470
-New code
-External
-Inbox
-
-Dmytro Yeskin
-Attachments
-10:35 PM (34 minutes ago)
-to me
-
- 2 Attachments
-  •  Scanned by Gmail
 import numpy as np
 from scipy.optimize import least_squares
 import matplotlib.pyplot as plt
@@ -219,5 +202,3 @@ plt.title("TDoA Drone Localization - Kherson, Ukraine", fontsize=14)
 plt.axis('equal')
 plt.tight_layout()
 plt.show()
-main.py
-Displaying main.py.
